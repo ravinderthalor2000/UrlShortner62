@@ -1,15 +1,4 @@
 /**
- * URL shortener Base-62 encoder / decoder C++ Proof-of-Concept.
- *
- * Created as a resource for https://stackoverflow.com/a/742047/293064.
- *
- * How to compile:
- *
- *     g++ -o base64-url-shortener-poc base64-url-shortener-poc.cpp
- *
- * Usage:
- *
- *     ./base64-url-shortener-poc [ID]
  *
  * Example output:
  *
