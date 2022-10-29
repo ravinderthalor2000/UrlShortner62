@@ -18,9 +18,6 @@
  *     Generated short URL: z4u
  *     ID decoded from URL: 99592
  *
- * @author Jay Taylor <outtatime@gmail.com>
- *
- * @date 2019-07-08
  *
  */
 
